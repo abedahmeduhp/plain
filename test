@@ -1,0 +1,41 @@
+[
+    {
+        "actif": true,
+        "_id": "60454404fad4892c59af1958",
+        "id_profil": 0,
+        "nom": "IGUADI",
+        "prenom": "Mahdi",
+        "email": "mahdi.iguadi@gmail.com",
+        "login": "m.ig",
+        "mdp": "$2b$10$240jhEHasOpOPvWsnlDcNejNzKIaPPxUhxnXYUk4.zCh2FIjA2ERq",
+        "salt": "$2b$10$240jhEHasOpOPvWsnlDcNe",
+        "tel": 64598862,
+        "__v": 0
+    },
+    {
+        "actif": true,
+        "_id": "604548e140b4470b54f31722",
+        "id_profil": 0,
+        "nom": "ABED",
+        "prenom": "Ahmed",
+        "email": "abed.ahmed@gmail.com",
+        "login": "a.abed",
+        "mdp": "$2b$10$aUCETZ4OGUmsEOzL1uW6.e1JUWgrYHW4lzUmDPq7QnIS/v5gRY8LG",
+        "salt": "$2b$10$aUCETZ4OGUmsEOzL1uW6.e",
+        "tel": 708126233,
+        "__v": 0
+    },
+    {
+        "actif": true,
+        "_id": "6046038e25b4c70ce63d0faa",
+        "id_profil": 0,
+        "nom": "tst",
+        "prenom": "issam",
+        "email": "issam@test.com",
+        "login": "engie_user",
+        "mdp": "$2b$10$AEBdWFh2sDwbbJrOWD32de8HDvdjfI8UekXszysF4c3hJ5K5kt4ja",
+        "salt": "$2b$10$AEBdWFh2sDwbbJrOWD32de",
+        "tel": 708125233,
+        "__v": 0
+    }
+]
